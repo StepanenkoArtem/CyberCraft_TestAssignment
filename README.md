@@ -1,4 +1,4 @@
-# CyberCraft_TestAssignment
+# Cyber Craft Test Assignment
 
 Создать форму, в которую необходимо внести Github login.
 
