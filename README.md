@@ -1,15 +1,22 @@
 # CyberCraft_TestAssignment
 
-Создать форму, в которую необходимо внести Github login. После обработки формы, вывести
+Создать форму, в которую необходимо внести Github login.
+
+После обработки формы, вывести
 Githun name и список репозиториев.
+
 Пример:
+
 Ввести: dhh
+
 Вывод:
+
     David Heinemeier Hansson
     - rubygems
     - textmate-rails-bundle
     - custom_configuration
     ..........
+
 Сервер должен обрабатывать запросы с использованием GraphQL (<https://github.com/rmosolgo/graphql-ruby>)
 
 Дополнительно:
