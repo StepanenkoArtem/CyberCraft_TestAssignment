@@ -4,9 +4,10 @@ on:
   push:
     branches: [ develop ]
 
-environment: development
+
 
 jobs:
+  environment: development
   build:
 
     runs-on: ubuntu-latest
