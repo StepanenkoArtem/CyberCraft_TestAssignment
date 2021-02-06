@@ -2,7 +2,7 @@ test:
 	poetry run pytest */tests -vv
 
 lint:
-	poetry run flake8
+	poetry run flake8 gh_repos
 
 devserver:
 	poetry run ./manage.py runserver
