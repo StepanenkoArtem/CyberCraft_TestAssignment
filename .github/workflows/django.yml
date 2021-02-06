@@ -4,13 +4,8 @@ on:
   push:
     branches: [ develop ]
 
-
-
 jobs:
-  
   build:
-
-    environment: development
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 4
