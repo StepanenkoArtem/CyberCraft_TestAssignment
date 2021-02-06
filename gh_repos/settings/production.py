@@ -1,12 +1,16 @@
 from gh_repos.settings.common import *
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS').split(',')
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'HOST': 'localhost',
+        'PORT': os.getenv('GH_REPOS_DB_PORT'),
+        'USER': os.getenv('GH_REPOS_DB_USER'),
+        'PASSWORD': os.getenv('GH_REPOS_DB_PASS'),
     },
 }
