@@ -7,9 +7,10 @@ on:
 
 
 jobs:
-  environment: development
+  
   build:
 
+    environment: development
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 4
