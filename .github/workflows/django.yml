@@ -35,7 +35,7 @@ jobs:
         python test_check.py
     - name: Run Tests
       run: |
-        python -m pytest
+        poetry run python -m pytest
     - name: Make Test Coverage
       run: |
         make coverage.xml
