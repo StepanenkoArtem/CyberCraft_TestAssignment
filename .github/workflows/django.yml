@@ -7,15 +7,14 @@ on:
 jobs:
   
   build:
+    env:
+      GH_REPOS_SECRET_KEY : ${{ secrets.GH_REPOS_SECRET_KEY }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 4
       matrix:
         python-version: [3.7, 3.8, 3.9]
-      
     steps:
-      env:
-        GH_REPOS_SECRET_KEY : ${{ secrets.GH_REPOS_SECRET_KEY }}
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
