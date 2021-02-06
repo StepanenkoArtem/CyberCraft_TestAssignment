@@ -1,6 +1,6 @@
 from gh_repos.settings.common import *
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost']
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases

@@ -10,6 +10,3 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     },
 }
-
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
