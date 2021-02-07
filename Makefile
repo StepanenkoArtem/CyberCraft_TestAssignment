@@ -11,13 +11,13 @@ migrate:
 	poetry run ./manage.py migrate
 
 test:
-	poetry run python -m pytest -vv --ff
+	poetry run python -m pytest tests -vv --ff -s
 
 test-cov:
-	poetry run python -m pytest -q --cov=gh_repos/tests
+	poetry run python -m pytest -q --cov=tests
 
 coverage.xml:
-	poetry run python -m pytest --cov=gh_repos/tests --cov-report=xml
+	poetry run python -m pytest --cov=tests --cov-report=xml
 
 .PHONY:
 	test lint devserver migrate prepare-migrate test-cov
