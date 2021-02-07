@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block repo_requst_form %}
+{% endblock %}
+
+{% block repo_list %}
+{{ github_account_owner_name }}
+<ul>
+{% for repo in github_repos%}
+    <li>{{ repo.name}} - {{ repo.stars }}</li>
+{% endfor %}
+</ul>
+{% endblock %}
