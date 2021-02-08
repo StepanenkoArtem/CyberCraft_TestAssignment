@@ -11,6 +11,7 @@ jobs:
   build:
     env:
       GH_REPOS_SECRET_KEY : ${{ secrets.GH_REPOS_SECRET_KEY }}
+      GH_REPOS_TZ : ${{ secrets.GH_REPOS_TZ }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 4
