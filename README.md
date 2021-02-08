@@ -1,5 +1,7 @@
 # Cyber Craft Test Assignment
 
+[![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
+
 Создать форму, в которую необходимо внести Github login.
 
 После обработки формы, вывести
