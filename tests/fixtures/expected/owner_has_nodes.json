@@ -1,7 +1,7 @@
 {
-    "github_login": "dhh",
-    "github_owner_name": "David Heinemeier Hansson",
-    "github_repos": [
+    "login": "dhh",
+    "name": "David Heinemeier Hansson",
+    "nodes": [
         {"name": "conductor", "stars": 65},
         {"name": "tolk", "stars": 535},
         {"name": "asset-hosting-with-minimum-ssl", "stars": 80},

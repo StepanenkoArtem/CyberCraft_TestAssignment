@@ -1,0 +1,11 @@
+{
+    "user": {
+        "login": "owner_has_no_nodes",
+        "name": "Empty Owner"
+    },
+    "repositoryOwner": {
+        "repositories": {
+            "nodes": []
+        }
+    }
+}

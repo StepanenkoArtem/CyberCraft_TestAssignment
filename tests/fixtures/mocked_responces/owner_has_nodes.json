@@ -1,0 +1,240 @@
+{
+    "user": {
+        "login": "dhh",
+        "name": "David Heinemeier Hansson"
+    },
+    "repositoryOwner": {
+        "repositories": {
+            "nodes": [
+                {
+                    "name": "conductor",
+                    "stargazers": {
+                        "totalCount": 65
+                    }
+                },
+                {
+                    "name": "tolk",
+                    "stargazers": {
+                        "totalCount": 535
+                    }
+                },
+                {
+                    "name": "asset-hosting-with-minimum-ssl",
+                    "stargazers": {
+                        "totalCount": 80
+                    }
+                },
+                {
+                    "name": "delayed_job",
+                    "stargazers": {
+                        "totalCount": 36
+                    }
+                },
+                {
+                    "name": "remotelogger-server",
+                    "stargazers": {
+                        "totalCount": 6
+                    }
+                },
+                {
+                    "name": "rails_xss",
+                    "stargazers": {
+                        "totalCount": 2
+                    }
+                },
+                {
+                    "name": "will_paginate",
+                    "stargazers": {
+                        "totalCount": 23
+                    }
+                },
+                {
+                    "name": "thinking-sphinx",
+                    "stargazers": {
+                        "totalCount": 17
+                    }
+                },
+                {
+                    "name": "pasta",
+                    "stargazers": {
+                        "totalCount": 8
+                    }
+                },
+                {
+                    "name": "credibles",
+                    "stargazers": {
+                        "totalCount": 4
+                    }
+                },
+                {
+                    "name": "rubygems",
+                    "stargazers": {
+                        "totalCount": 14
+                    }
+                },
+                {
+                    "name": "country_and_region_select",
+                    "stargazers": {
+                        "totalCount": 23
+                    }
+                },
+                {
+                    "name": "turn",
+                    "stargazers": {
+                        "totalCount": 4
+                    }
+                },
+                {
+                    "name": "bundler",
+                    "stargazers": {
+                        "totalCount": 10
+                    }
+                },
+                {
+                    "name": "rack",
+                    "stargazers": {
+                        "totalCount": 13
+                    }
+                },
+                {
+                    "name": "gemoji",
+                    "stargazers": {
+                        "totalCount": 3727
+                    }
+                },
+                {
+                    "name": "rails_autolink",
+                    "stargazers": {
+                        "totalCount": 14
+                    }
+                },
+                {
+                    "name": "motion-settings-bundle",
+                    "stargazers": {
+                        "totalCount": 113
+                    }
+                },
+                {
+                    "name": "tempusfugit",
+                    "stargazers": {
+                        "totalCount": 0
+                    }
+                },
+                {
+                    "name": "ample-search",
+                    "stargazers": {
+                        "totalCount": 0
+                    }
+                },
+                {
+                    "name": "custom_configuration",
+                    "stargazers": {
+                        "totalCount": 207
+                    }
+                },
+                {
+                    "name": "code_metrics",
+                    "stargazers": {
+                        "totalCount": 19
+                    }
+                },
+                {
+                    "name": "actionmailer-deliver_later",
+                    "stargazers": {
+                        "totalCount": 6
+                    }
+                },
+                {
+                    "name": "activejob-stats",
+                    "stargazers": {
+                        "totalCount": 54
+                    }
+                },
+                {
+                    "name": "cramp",
+                    "stargazers": {
+                        "totalCount": 8
+                    }
+                },
+                {
+                    "name": "actioncable",
+                    "stargazers": {
+                        "totalCount": 6
+                    }
+                },
+                {
+                    "name": "rails",
+                    "stargazers": {
+                        "totalCount": 15
+                    }
+                },
+                {
+                    "name": "sucker_punch",
+                    "stargazers": {
+                        "totalCount": 3
+                    }
+                },
+                {
+                    "name": "turbolinks",
+                    "stargazers": {
+                        "totalCount": 4
+                    }
+                },
+                {
+                    "name": "stimulus",
+                    "stargazers": {
+                        "totalCount": 10097
+                    }
+                },
+                {
+                    "name": "roadie-rails",
+                    "stargazers": {
+                        "totalCount": 1
+                    }
+                },
+                {
+                    "name": "rails_panel",
+                    "stargazers": {
+                        "totalCount": 16
+                    }
+                },
+                {
+                    "name": "textmate-rails-bundle",
+                    "stargazers": {
+                        "totalCount": 21
+                    }
+                },
+                {
+                    "name": "rack-ratelimit",
+                    "stargazers": {
+                        "totalCount": 15
+                    }
+                },
+                {
+                    "name": "mailcheck",
+                    "stargazers": {
+                        "totalCount": 4
+                    }
+                },
+                {
+                    "name": "docker-sync-boilerplate",
+                    "stargazers": {
+                        "totalCount": 1
+                    }
+                },
+                {
+                    "name": "css-in-readme-like-wat",
+                    "stargazers": {
+                        "totalCount": 1
+                    }
+                },
+                {
+                    "name": "tailwindcss-rails",
+                    "stargazers": {
+                        "totalCount": 537
+                    }
+                }
+            ]
+        }
+    }
+}
