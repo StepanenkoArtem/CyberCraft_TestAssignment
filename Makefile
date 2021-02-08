@@ -19,5 +19,8 @@ test-cov:
 coverage.xml:
 	poetry run python -m pytest --cov=tests --cov-report=xml
 
+requirements.txt:
+	poetry export -o requirements.txt
+
 .PHONY:
 	test lint devserver migrate prepare-migrate test-cov
