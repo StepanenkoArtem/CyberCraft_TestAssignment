@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'repos',
+    'bootstrap4',
 ]
 
 MIDDLEWARE = [
@@ -126,3 +127,5 @@ ROLLBAR = {
 }
 
 rollbar.init(**ROLLBAR)
+
+GH_API_TOKEN = os.environ.get('GH_API_TOKEN')
