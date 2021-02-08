@@ -5,6 +5,8 @@
 [![codecov](https://codecov.io/gh/StepanenkoArtem/CyberCraft_TestAssignment/branch/main/graph/badge.svg?token=sxr5H0Csjt)](https://codecov.io/gh/StepanenkoArtem/CyberCraft_TestAssignment)
 ![build](https://github.com/StepanenkoArtem/CyberCraft_TestAssignment/workflows/Django%20CI/badge.svg)
 
+Результат доступен по ссылке (<https://stepanenko-gh-repos.herokuapp.com/>)
+
 Создать форму, в которую необходимо внести Github login.
 
 После обработки формы, вывести
